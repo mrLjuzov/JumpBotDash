@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Logic1
+  - Ground2
+  - Logic2
+  - Pipe1
+  - Spike1
+  - Spike2
+  - Rocket1
+  - Rocket2
+  - GameMusic
+  - PointAudio
+  - CollideAudio
+  - BackgroundMM
+  - MusicButton
+  - SoundButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - robotLayer
+  - Water
+  - UI
+  - robotlayer2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3833261577
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
